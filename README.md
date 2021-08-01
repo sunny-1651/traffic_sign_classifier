@@ -33,8 +33,6 @@ The goals / steps of this project are the following:
 
 #### 1. Provide a Writeup / README that includes all the rubric points and how you addressed each one. You can submit your writeup as markdown or pdf. You can use this template as a guide for writing the report. The submission includes the project code.
 
-#### 1a. Here is a link to my [project code](https://github.com/ajdhole/Traffic_Sign_Classisier/blob/master/Traffic_Sign_Classifier-Copy1.ipynb)
-
 ### Data Set Summary & Exploration
 
 #### 1. Provide a basic summary of the data set. In the code, the analysis should be done using python, numpy and/or pandas methods rather than hardcoding results manually.

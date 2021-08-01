@@ -28,16 +28,6 @@ The goals / steps of this project are the following:
 [image11]: ./writeup_images/Featuremap3.png "Featuremap Conv 2"
 [image12]: ./writeup_images/Featuremap4.png "Featuremap Conv 2_pooling"
 
-
-
-## Rubric Points
-### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  This is a summary.  Continue further to read each in depth.   
-1. As per project requirements, Traffic Sign Classifier project Notebook, HTML file and write up Files submitted.
-2. Dataset summary & image visualization with image type distribution plot created.
-3. Design & test model: which includes preprocessing, model architecture, hyperparameter tunning, training, and solution. 
-4. Test model on new images, Trained model tested on new image downloaded from web, and plotted its softmax probability. 
-5. Featuremap visualisation, Featuremap for all convolution layaer and pooling layer plotted.
-
 ---
 ### Writeup / README
 
